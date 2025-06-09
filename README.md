@@ -4,7 +4,7 @@ Welcome to the github repository for Kaoibhinn. A musical act 🎶 by Aoibhinn R
 
 ## Repository Structure
 
-* `demos` - Digital audio files of the act
+* [demos](demos) - Digital audio files of the act
 * `docs` - Documentation files
 	* `effects.md` - Documentation about input effects used.
 * `src` - Source code
