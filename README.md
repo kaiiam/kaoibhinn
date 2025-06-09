@@ -5,11 +5,11 @@ Welcome to the github repository for Kaoibhinn. A musical act 🎶 by Aoibhinn R
 ## Repository Structure
 
 * [demos](demos) - Digital audio files of the act
-* `docs` - Documentation files
-	* `effects.md` - Documentation about input effects used.
-* `src` - Source code
-	* `effects` - Dependency files for input effects. 
-	* `rpp` - Reaper project files
+* [docs](docs) - Documentation files
+	* [effects.md](docs/effects.md) - Documentation about input effects used.
+* [src](src) - Source code
+	* [effects](src/effects) - Dependency files for input effects. 
+	* [rpp](src/rpp) - Reaper project files
 
 ## DAW Setup 
 
