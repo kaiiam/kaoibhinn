@@ -34,7 +34,7 @@ Additional Useful resources:
 ### Download plugins
 
 **Install the following plugins:**
-* `VST3: NeuralAmpModeler (Steven Atkinson)` from [here](https://github.com/sdatkinson/NeuralAmpModelerPlugin
+* `VST3: NeuralAmpModeler (Steven Atkinson)` from [here](https://github.com/sdatkinson/NeuralAmpModelerPlugin)
 * `VST3: TDR Nova (Tokyo Dawn Labs)` from [here](https://www.tokyodawn.net/tdr-nova/)
 
 Restart `Reaper` after installation. Neither `NeuralAmpModeler` nor `TDR Nova` require anything (like paying or making a username/password) to download. 
